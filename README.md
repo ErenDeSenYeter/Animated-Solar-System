@@ -1,10 +1,7 @@
 # Animated-Solar-System
 Solar System Project
 
-Made with Python 
-And used Pygame Library
-
-Can be much more accurate
+Made with Pygame Library
 
 Will be updated..
 
